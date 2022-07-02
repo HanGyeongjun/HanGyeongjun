@@ -1,4 +1,5 @@
 # HanGyeongjun | Halogen
+### Apple Developer Academy @ POSTECH 2022 Jr. Learner 
 <a href="https://www.linkedin.com/in/gyeongjunhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"/></a>
 <a href="https://halogen.notion.site/Han-Gyeongjun-8888e90f60274e878ba4d19f77ded8fc" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
 <a href="https://www.instagram.com/hal0gen_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>
@@ -25,21 +26,11 @@
 [![My Language](https://github-readme-stats.vercel.app/api/top-langs/?username=HanGyeongjun)](https://github.com/깃허브아이디/github-readme-stats)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+## App / App Repo
+MC1
+<a href="https://github.com/DeveloperAcademy-POSTECH/FinishLine-Buy-or-not" target="_blank"><img src="https://img.shields.io/badge/Buy or Not-ffffff?style=flat&logo=Github&logoColor=181717"/></a>
 
+MC2
+<a href="https://apps.apple.com/kr/app/cleanny/id1630640491" target="_blank"><img src="https://img.shields.io/badge/Cleanny-ffffff?style=flat&logo=AppStore&logoColor=D96F6"/></a>
+<a href="https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-Cleanny" target="_blank"><img src="https://img.shields.io/badge/Cleanny-ffffff?style=flat&logo=Github&logoColor=181717"/></a>
 
-
-<!--
-**HanGyeongjun/HanGyeongjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
