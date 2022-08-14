@@ -34,3 +34,7 @@ MC2
 <a href="https://apps.apple.com/kr/app/cleanny/id1630640491" target="_blank"><img src="https://img.shields.io/badge/Cleanny-ffffff?style=flat&logo=AppStore&logoColor=D96F6"/></a>
 <a href="https://github.com/DeveloperAcademy-POSTECH/MC2-Team15-Cleanny" target="_blank"><img src="https://img.shields.io/badge/Cleanny-ffffff?style=flat&logo=Github&logoColor=181717"/></a>
 
+MC3
+<a href="https://apps.apple.com/kr/app/%ED%83%84%ED%83%84-tantan/id1637676314" target="_blank"><img src="https://img.shields.io/badge/TanTan-ffffff?style=flat&logo=AppStore&logoColor=D96F6"/></a>
+<a href="https://github.com/DeveloperAcademy-POSTECH/Bingha" target="_blank"><img src="https://img.shields.io/badge/TanTan-ffffff?style=flat&logo=Github&logoColor=181717"/></a>
+
