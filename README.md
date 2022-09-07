@@ -1,7 +1,7 @@
 # HanGyeongjun | Halogen
 ### Apple Developer Academy @ POSTECH 2022 Jr. Learner 
 <a href="https://www.linkedin.com/in/gyeongjunhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"/></a>
-<a href="https://halogen.notion.site/Han-Gyeongjun-8888e90f60274e878ba4d19f77ded8fc" target="_blank"><img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
+<a href="https://halogen.notion.site/halogen/Halogen-3866352ac2334d91b59714422b95d0c9"><img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
 <a href="https://www.instagram.com/hal0gen_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>
 
 ## Languages
