@@ -1,6 +1,7 @@
 # HanGyeongjun | Halogen
 
 <H3>Apple Developer Academy @ POSTECH 2022 Jr. Learner</H3>
+
   <a href="https://www.linkedin.com/in/gyeongjunhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"/></a>
   <a href="https://halogen.notion.site/halogen/Halogen-3866352ac2334d91b59714422b95d0c9"><img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
   <a href="https://www.instagram.com/hal0gen_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-ffffff?style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a>
@@ -8,16 +9,21 @@
 <hr>
 
 <H3>👨🏻‍💻 Languages</H3>
+
   <img src="https://img.shields.io/badge/Swift-ffffff?style=flat&logo=Swift&logoColor=F05138"/></a>
+  
+  <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=E34F26"/></a>
+  <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&logoColor=1572B6"/></a>
 
 <hr>
 
 <H3>🛠️ Tools</H3>
 
   <img src="https://img.shields.io/badge/Xcode-ffffff?style=flat&logo=Xcode&logoColor=147EFB"/></a>
+  <img src="https://img.shields.io/badge/Xcode Cloud-ffffff?style=flat&logo=Xcode&logoColor=147EFB"/></a>
   <img src="https://img.shields.io/badge/VS Code-ffffff?style=flat&logo=Visual Studio Code&logoColor=007ACC"/></a>
   <img src="https://img.shields.io/badge/Git-ffffff?style=flat&logo=Git&logoColor=F05032"/></a>
-  <img src="https://img.shields.io/badge/GitKraken-ffffff?style=flat&logo=GitKraken&logoColor=179287"/></a>
+  <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=GitHub&logoColor=181717"/></a>
   
   <img src="https://img.shields.io/badge/Figma-ffffff?style=flat&logo=Figma&logoColor=F24E1E"/></a>
   <img src="https://img.shields.io/badge/Sketch-ffffff?style=flat&logo=Sketch&logoColor=F7B500"/></a>
