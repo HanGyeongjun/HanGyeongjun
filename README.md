@@ -1,6 +1,6 @@
 # HanGyeongjun | Halogen
 
-<H3>Apple Developer Academy @ POSTECH 2022 Jr. Learner</H3>
+<H3>iOS Developer | Apple Developer Academy @ POSTECH 2022 Jr. Learner</H3>
 
   <a href="https://www.linkedin.com/in/gyeongjunhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"/></a>
   <a href="https://halogen.notion.site/halogen/Halogen-3866352ac2334d91b59714422b95d0c9"><img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/Git-ffffff?style=flat&logo=Git&logoColor=F05032"/></a>
   <img src="https://img.shields.io/badge/GitHub-ffffff?style=flat&logo=GitHub&logoColor=181717"/></a>
   
+   <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=Notion&logoColor=000000"/></a>
+  <img src="https://img.shields.io/badge/GitBook-ffffff?style=flat&logo=GitBook&logoColor=3884FF"/></a>
+
   <img src="https://img.shields.io/badge/Figma-ffffff?style=flat&logo=Figma&logoColor=F24E1E"/></a>
   <img src="https://img.shields.io/badge/Sketch-ffffff?style=flat&logo=Sketch&logoColor=F7B500"/></a>
   <img src="https://img.shields.io/badge/blender-ffffff?style=flat&logo=Blender&logoColor=F5792A"/></a>
@@ -57,3 +60,9 @@ MC2
   
 MC1
   <a href="https://github.com/DeveloperAcademy-POSTECH/FinishLine-Buy-or-not" target="_blank"><img src="https://img.shields.io/badge/Buy or Not-ffffff?style=flat&logo=Github&logoColor=181717"/></a>
+
+<hr>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanGyeongjun&count_bg=%23222222&title_bg=%23222222&icon=&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+
+Gyeongjun Han 2023
