@@ -12,6 +12,7 @@
 
   <img src="https://img.shields.io/badge/Swift-ffffff?style=flat&logo=Swift&logoColor=F05138"/></a>
   
+   <img src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=java4F26"/></a>
   <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=E34F26"/></a>
   <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&logoColor=1572B6"/></a>
 
