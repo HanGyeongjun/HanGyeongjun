@@ -1,6 +1,10 @@
 # HanGyeongjun | Halogen
 
-<H3>iOS Developer | Apple Developer Academy @ POSTECH 2022 Jr. Learner</H3>
+<H3>iOS Developer</H3>
+<H4>Apple Developer Academy @ POSTECH 2022 Jr. Learner</H4>
+<H4>CSE at Kangwon Nat'l Univ | LIKELION Univ KNU</H4>
+<br>
+
 
   <a href="https://www.linkedin.com/in/gyeongjunhan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"/></a>
   <a href="https://halogen.notion.site/halogen/Halogen-3866352ac2334d91b59714422b95d0c9"><img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=000000"/></a>
@@ -12,7 +16,8 @@
 
   <img src="https://img.shields.io/badge/Swift-ffffff?style=flat&logo=Swift&logoColor=F05138"/></a>
   
-   <img src="https://img.shields.io/badge/Java-ffffff?style=flat&logo=java4F26"/></a>
+  <img src="https://img.shields.io/badge/Java-ffffff?style=flat"/></a>
+  <img src="https://img.shields.io/badge/React-ffffff?style=flat&logo=react&logoColor=61DAFB"/></a>
   <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=E34F26"/></a>
   <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&logoColor=1572B6"/></a>
 
