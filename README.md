@@ -12,12 +12,14 @@
 
 <hr>
 
-<H3>👨🏻‍💻 Languages</H3>
+<H3>👨🏻‍💻 Languages / Frameworks</H3>
 
   <img src="https://img.shields.io/badge/Swift-ffffff?style=flat&logo=Swift&logoColor=F05138"/></a>
+  <img src="https://img.shields.io/badge/SwiftUI-ffffff?style=flat&logo=Swift&logoColor=006EFD"/></a>
+
   
   <img src="https://img.shields.io/badge/Java-ffffff?style=flat"/></a>
-  <img src="https://img.shields.io/badge/React-ffffff?style=flat&logo=react&logoColor=61DAFB"/></a>
+  <img src="https://img.shields.io/badge/Next.js-ffffff?style=flat&logo=next.js&logoColor=000000"/></a>
   <img src="https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=E34F26"/></a>
   <img src="https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&logoColor=1572B6"/></a>
 
