@@ -1,8 +1,10 @@
 # HanGyeongjun | Halogen
 
-<H3>iOS Developer</H3>
+<H3>Apple Ecosystem Developer</H3>
 <H4>Apple Developer Academy @ POSTECH 2022 Jr. Learner</H4>
+<H4>Apple Developer Academy Alumni Committee</H4>
 <H4>CSE at Kangwon Nat'l Univ | LIKELION Univ KNU</H4>
+<H4>KWDC24 Organizer</H4>
 <br>
 
 
